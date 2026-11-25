@@ -42,3 +42,9 @@ Esta API REST implementa o back-end da plataforma web de pedidos da **Delícias 
    git clone [https://github.com/rafaellima-byte/API-DELICIASDEVO.git](https://github.com/rafaellima-byte/API-DELICIASDEVO.git)
    cd API-DELICIASDEVO
    code .
+
+1. **Clonar o repositório e abrir a pasta no VS Code:**
+   ```bash
+   git clone [https://github.com/rafaellima-byte/API-DELICIASDEVO.git](https://github.com/rafaellima-byte/API-DELICIASDEVO.git)
+   cd API-DELICIASDEVO
+   code .
